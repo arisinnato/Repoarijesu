@@ -2918,32 +2918,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aless\\.nuget\\packages\\": {}
+    "C:\\Users\\usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aless\\OneDrive\\Escritorio\\Nueva carpeta\\Repoarijesu\\infrastructure\\infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\infrastructure\\infrastructure.csproj",
       "projectName": "infrastructure",
-      "projectPath": "C:\\Users\\aless\\OneDrive\\Escritorio\\Nueva carpeta\\Repoarijesu\\infrastructure\\infrastructure.csproj",
-      "packagesPath": "C:\\Users\\aless\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aless\\OneDrive\\Escritorio\\Nueva carpeta\\Repoarijesu\\infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\infrastructure\\infrastructure.csproj",
+      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aless\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\aless\\OneDrive\\Escritorio\\Nueva carpeta\\Repoarijesu\\core\\core.csproj": {
-              "projectPath": "C:\\Users\\aless\\OneDrive\\Escritorio\\Nueva carpeta\\Repoarijesu\\core\\core.csproj"
+            "C:\\Users\\usuario\\Downloads\\Repoarijesu\\core\\core.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\core\\core.csproj"
             }
           }
         }

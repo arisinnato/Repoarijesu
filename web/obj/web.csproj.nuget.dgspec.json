@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aless\\OneDrive\\Escritorio\\Nueva carpeta\\Repoarijesu\\web\\web.csproj": {}
+    "C:\\Users\\usuario\\Downloads\\Repoarijesu\\web\\web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aless\\OneDrive\\Escritorio\\Nueva carpeta\\Repoarijesu\\web\\web.csproj": {
+    "C:\\Users\\usuario\\Downloads\\Repoarijesu\\web\\web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aless\\OneDrive\\Escritorio\\Nueva carpeta\\Repoarijesu\\web\\web.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\web\\web.csproj",
         "projectName": "web",
-        "projectPath": "C:\\Users\\aless\\OneDrive\\Escritorio\\Nueva carpeta\\Repoarijesu\\web\\web.csproj",
-        "packagesPath": "C:\\Users\\aless\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aless\\OneDrive\\Escritorio\\Nueva carpeta\\Repoarijesu\\web\\obj\\",
+        "projectPath": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\web\\web.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aless\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

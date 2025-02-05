@@ -1,6 +1,6 @@
-@web_HostAddress = http://localhost:5026
+@Web_HostAddress = http://localhost:5025
 
-GET {{web_HostAddress}}/weatherforecast/
+GET {{Web_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

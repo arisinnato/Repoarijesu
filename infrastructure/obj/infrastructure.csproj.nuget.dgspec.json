@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Downloads\\Repoarijesu\\infrastructure\\infrastructure.csproj": {}
+    "C:\\Users\\usuario\\Downloads\\entregable-2-arisinnato\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Downloads\\Repoarijesu\\core\\core.csproj": {
+    "C:\\Users\\usuario\\Downloads\\entregable-2-arisinnato\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\core\\core.csproj",
-        "projectName": "core",
-        "projectPath": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\core\\core.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Downloads\\entregable-2-arisinnato\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\usuario\\Downloads\\entregable-2-arisinnato\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\core\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\Downloads\\entregable-2-arisinnato\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\usuario\\Downloads\\Repoarijesu\\infrastructure\\infrastructure.csproj": {
+    "C:\\Users\\usuario\\Downloads\\entregable-2-arisinnato\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\infrastructure\\infrastructure.csproj",
-        "projectName": "infrastructure",
-        "projectPath": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\infrastructure\\infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Downloads\\entregable-2-arisinnato\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\usuario\\Downloads\\entregable-2-arisinnato\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\Downloads\\entregable-2-arisinnato\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\usuario\\Downloads\\Repoarijesu\\core\\core.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Downloads\\Repoarijesu\\core\\core.csproj"
+              "C:\\Users\\usuario\\Downloads\\entregable-2-arisinnato\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\usuario\\Downloads\\entregable-2-arisinnato\\Core\\Core.csproj"
               }
             }
           }
@@ -111,17 +111,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
